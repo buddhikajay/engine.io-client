@@ -33,7 +33,6 @@
     "parseqs": "0.0.5",
     "parseuri": "0.0.5",
     "ws": "~6.1.0",
-    "xmlhttprequest-cookie": "github:buddhikajay/node-xmlhttprequest-cookie#feat/use-xmlhttprequest-ssl",
     "xmlhttprequest-ssl": "~1.5.4",
     "yeast": "0.1.2"
   },
